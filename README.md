@@ -17,7 +17,7 @@ Before running the service, ensure the following are set up :
    - Go to Control Panel > Devices and Printers
    - Right-click your Zebra printer → Printer Properties
    - Go to the Sharing tab → Enable Share this printer
-   - Set a simple share name (e.g., Zebra)
+   - Set a simple share name "Zebra"
 
 ## Setup Instructions
 1. Clone or Download the Project
